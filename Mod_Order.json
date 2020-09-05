@@ -1,0 +1,100 @@
+{
+  "Order": [
+    {
+      "UUID": "4bcb0f56-d4dd-4241-9285-0f5710913edb",
+      "Name": "OdinCore - Mod Services"
+    },
+    {
+      "UUID": "25469b00-aa46-470d-aa76-f6c3ece35e17",
+      "Name": "Helaene - Shared Library"
+    },
+    {
+      "UUID": "c22c52be-7a44-1f58-f058-3b359421db05",
+      "Name": "Odinblade's Umbra Class: Definitive Edition"
+    },
+    {
+      "UUID": "23fd9162-a6c2-b4a7-9400-013b6ed3a0ac",
+      "Name": "Interesting Uniques (Definitive Edition)"
+    },
+    {
+      "UUID": "d1ba8097-dba1-d74b-7efe-8fca3ef71fe5",
+      "Name": "Greed - Increased Loot Variety"
+    },
+    {
+      "UUID": "6aaa43a9-3a72-e82e-a6f6-8c367fd82117",
+      "Name": "Crafting Overhaul [DE]"
+    },
+    {
+      "UUID": "961ae59d-2964-46dd-9762-073697915dc2",
+      "Name": "Odinblade's Aerotheurge Class Overhaul"
+    },
+    {
+      "UUID": "0e8fce66-abd2-486c-b0c7-40e8fe71c236",
+      "Name": "Odinblade's Enhanced Summon Scaling"
+    },
+    {
+      "UUID": "ffb501cc-ab6d-46de-be89-732c9e289f3e",
+      "Name": "Odinblade's Geomancer Class Overhaul"
+    },
+    {
+      "UUID": "7db12ae8-0e96-4050-adb2-06c906897b70",
+      "Name": "Odinblade's Huntsman Class Overhaul"
+    },
+    {
+      "UUID": "02ca48b9-e4ef-a8e4-91d7-0b9df70bb595",
+      "Name": "Odinblade's Hydrosophist Class Overhaul"
+    },
+    {
+      "UUID": "8700ba4e-7d4b-40ca-a23f-b43816794957",
+      "Name": "Odinblade's Necromancer Class Overhaul"
+    },
+    {
+      "UUID": "aab53301-4f38-1d49-91f7-28dfa468084b",
+      "Name": "Odinblade's Pyrokinetic Class Overhaul"
+    },
+    {
+      "UUID": "0dc94eaa-688d-4a90-b43b-1a1fb2392f84",
+      "Name": "Odinblade's Scoundrel Class Overhaul"
+    },
+    {
+      "UUID": "e4a5c8ca-7f04-23ab-8115-18161eb702bf",
+      "Name": "Odinblade's Spectre Class: Definitive Edition"
+    },
+    {
+      "UUID": "faac3525-c5b3-580d-6ef2-ed9797f68fb0",
+      "Name": "Helaene - Blacksmith Class (DE)"
+    },
+    {
+      "UUID": "958ef674-66ec-d208-1112-5c62ffbba16b",
+      "Name": "Helaene - Cryomancer Class (DE)"
+    },
+    {
+      "UUID": "3a5f27e8-2bb7-a1aa-210d-646fa48a1a98",
+      "Name": "Helaene - Mirage Class (DE)"
+    },
+    {
+      "UUID": "fd3534f5-99b9-cae1-a458-ecf9f3be5a3c",
+      "Name": "Helaene - Priest Class (DE)"
+    },
+    {
+      "UUID": "975c594c-2382-93a0-377a-847775be6c5b",
+      "Name": "Helaene - Succubus Class (DE)"
+    },
+    {
+      "UUID": "ca9ff65f-b16d-690a-22c5-6c3c31d8e597",
+      "Name": "Helaene - Trickster Class (DE)"
+    },
+    {
+      "UUID": "78a84dd9-de34-c4c7-47a5-e47bd080ebb1",
+      "Name": "Helaene - Valkyrie Class (DE)"
+    },
+    {
+      "UUID": "ba43959a-490b-0846-6630-56a90568b651",
+      "Name": "Helaene - Vampire Class (DE)"
+    },
+    {
+      "UUID": "260d1263-4650-51f8-38dc-614f6c9536ed",
+      "Name": "Helaene - Wyldfae Class (DE)"
+    }
+  ]
+}
