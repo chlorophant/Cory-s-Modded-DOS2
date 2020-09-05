@@ -4,7 +4,7 @@
 1. Install Divinity Original Sin 2
 2. Run Divinity Original Sin 2 at least once, to initialize a profile and mods folder.
 3. Install the included ".NET Framework 4.7.2.exe"
-4. Extract "Divinity Mode Manager.zip" anywhere
+4. Extract "Divinity Mod Manager.zip" anywhere
 5. Run divinity mod manager
 6. In divinity mod manager, go to settings -> preferences and ensure the game data path, game executable path, and DOS2 workshop path are all correct. should look something like:
 ![](dos%20mod%20paths.PNG?raw=true)
