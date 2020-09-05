@@ -6,7 +6,8 @@
 3. Install the included ".NET Framework 4.7.2.exe"
 4. Extract "Divinity Mode Manager.zip" anywhere
 5. Run divinity mod manager
-6. In divinity mod manager, go to settings -> preferences and ensure the game data path, game executable path, and DOS2 workshop path are all correct. should look something like: [IMAGE]
+6. In divinity mod manager, go to settings -> preferences and ensure the game data path, game executable path, and DOS2 workshop path are all correct. should look something like:
+![alt text](dos mod paths.PNG "Paths")
 7. Go to tools -> Download and install script extender... then hit "yes"
 8. Copy the files in the included mods folder into C:\Users\{you-user-name}\OneDrive\Documents\Larian Studios\Divinity Original Sin 2 Definitive Edition\Mods
 9. In divinity mod manager, click "refresh"
